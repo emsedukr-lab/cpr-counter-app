@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "locale": "de",
+  "version": "elevenlabs-e3540644f2fe",
+  "voice": {
+    "providerId": "elevenlabs",
+    "voiceId": "jB1Cifc2UQbq1gR3wnb0",
+    "quality": "unknown"
+  },
+  "assets": {
+    "count.1": {
+      "url": "/audio/de/elevenlabs/counts/1.wav",
+      "durationMs": 352,
+      "hash": "33062df455840c471d43c0d64871a8b0619aae327d876858cf2004a7ca2c48fc",
+      "bytes": 15550
+    },
+    "count.2": {
+      "url": "/audio/de/elevenlabs/counts/2.wav",
+      "durationMs": 324,
+      "hash": "b9d4040de818d3e1bc32af6d218508649d12608ea5b8a252be38f920e017a432",
+      "bytes": 14346
+    },
+    "count.3": {
+      "url": "/audio/de/elevenlabs/counts/3.wav",
+      "durationMs": 325,
+      "hash": "e9fd82b8707c5a7202bf070f11e2a792867b22131dce08a479651c07c1d1207c",
+      "bytes": 14380
+    },
+    "count.4": {
+      "url": "/audio/de/elevenlabs/counts/4.wav",
+      "durationMs": 324,
+      "hash": "a850be751c771871a5e0d7ce0abef9bdcabc28725f22f9005781b629b71c6ac1",
+      "bytes": 14346
+    },
+    "count.5": {
+      "url": "/audio/de/elevenlabs/counts/5.wav",
+      "durationMs": 325,
+      "hash": "0a323dc0493191c9702d5d032b56dc0419425ca98b3a8b0f81a763f08b483029",
+      "bytes": 14380
+    },
+    "count.6": {
+      "url": "/audio/de/elevenlabs/counts/6.wav",
+      "durationMs": 325,
+      "hash": "8414eec28899fa986cc80b1f500d31c051927bb547e1f7fc2040fcd5d14c897b",
+      "bytes": 14380
+    },
+    "count.7": {
+      "url": "/audio/de/elevenlabs/counts/7.wav",
+      "durationMs": 418,
+      "hash": "82ed922bde69db43f240d3e66dd13647215a61e4bcbf97cac18a7a41497b79cb",
+      "bytes": 18476
+    },
+    "count.8": {
+      "url": "/audio/de/elevenlabs/counts/8.wav",
+      "durationMs": 279,
+      "hash": "d6a842f88954c6c3fefa3e8da01f8b8eb6aa18f74a8de2061c50306d146e72d9",
+      "bytes": 12332
+    },
+    "count.9": {
+      "url": "/audio/de/elevenlabs/counts/9.wav",
+      "durationMs": 295,
+      "hash": "a41472c6fa41cf87f4ab0f19f182d1188e9d04a63e13b0a98cd1313d65ee9c62",
+      "bytes": 13062
+    },
+    "count.10": {
+      "url": "/audio/de/elevenlabs/counts/10.wav",
+      "durationMs": 372,
+      "hash": "c42af8aa897f1833bf3ab3d61aee68da11765a58105710eb799decfb654e37d7",
+      "bytes": 16428
+    },
+    "count.11": {
+      "url": "/audio/de/elevenlabs/counts/11.wav",
+      "durationMs": 279,
+      "hash": "ffcaf3c487d9ca6e96e7ba101d5405f5f318e931ba3ee7956920efc03617b73c",
+      "bytes": 12332
+    },
+    "count.12": {
+      "url": "/audio/de/elevenlabs/counts/12.wav",
+      "durationMs": 354,
+      "hash": "58267f5614dd46204f31bc92d4f23da97b89de668f5a2a6b437edd268ab1e41a",
+      "bytes": 15666
+    },
+    "count.13": {
+      "url": "/audio/de/elevenlabs/counts/13.wav",
+      "durationMs": 399,
+      "hash": "ab79633b5299b673e3303e17e7348d16697cade9a2085e6ac2cb7524f419c21f",
+      "bytes": 17648
+    },
+    "count.14": {
+      "url": "/audio/de/elevenlabs/counts/14.wav",
+      "durationMs": 398,
+      "hash": "6ea6b5e5791d8061a3c57fe2bf083dbe695f316dd489a705ced0f32049a5e8fd",
+      "bytes": 17600
+    },
+    "count.15": {
+      "url": "/audio/de/elevenlabs/counts/15.wav",
+      "durationMs": 418,
+      "hash": "bf2abb719bdc5ade629e607cc44ce11cc58582eec6ef546263988840045cd82c",
+      "bytes": 18476
+    },
+    "count.16": {
+      "url": "/audio/de/elevenlabs/counts/16.wav",
+      "durationMs": 404,
+      "hash": "dab0583cfe458d37f43687099ac3a5337bc795ce131f96482ee63a5a6bb90daf",
+      "bytes": 17872
+    },
+    "count.17": {
+      "url": "/audio/de/elevenlabs/counts/17.wav",
+      "durationMs": 402,
+      "hash": "45cb0b5ab5679e9c928f08485d0690552371943727497f3c6ef2087587836e08",
+      "bytes": 17770
+    },
+    "count.18": {
+      "url": "/audio/de/elevenlabs/counts/18.wav",
+      "durationMs": 395,
+      "hash": "74ea64d2940be5925238101c5d84de88806a8af92de69247eef17933decc9784",
+      "bytes": 17458
+    },
+    "count.19": {
+      "url": "/audio/de/elevenlabs/counts/19.wav",
+      "durationMs": 394,
+      "hash": "37e212f9c72e907a013a595ab73465e591ba2115772c7ce65e602dd186ea251c",
+      "bytes": 17426
+    },
+    "count.20": {
+      "url": "/audio/de/elevenlabs/counts/20.wav",
+      "durationMs": 418,
+      "hash": "c5a6a5fdcbdb25b73db2a8c044cea0cbf8dbe37617c7a68c7f12383f1341dbe5",
+      "bytes": 18476
+    },
+    "count.21": {
+      "url": "/audio/de/elevenlabs/counts/21.wav",
+      "durationMs": 392,
+      "hash": "4feeadb749261ff8b7eaa666acf231f75e15256c641928233c7474a26b1cdb5b",
+      "bytes": 17312
+    },
+    "count.22": {
+      "url": "/audio/de/elevenlabs/counts/22.wav",
+      "durationMs": 404,
+      "hash": "5b129d824bb0c9098c26308a8b523abfe5b668a6c828436fe501634696673b38",
+      "bytes": 17866
+    },
+    "count.23": {
+      "url": "/audio/de/elevenlabs/counts/23.wav",
+      "durationMs": 399,
+      "hash": "c856c2f21dddfac93a1477c94ab6bd914b7089715cab784b797b72ec06d28275",
+      "bytes": 17646
+    },
+    "count.24": {
+      "url": "/audio/de/elevenlabs/counts/24.wav",
+      "durationMs": 419,
+      "hash": "52db4d1807d7f7be95424dfbd5e357a569ea57c4f334a043d5e631866708e9b8",
+      "bytes": 18522
+    },
+    "count.25": {
+      "url": "/audio/de/elevenlabs/counts/25.wav",
+      "durationMs": 404,
+      "hash": "a4d308ec040f37df17559268ab4156ead5b0bb30e80aa39d2a403a78bd90d283",
+      "bytes": 17856
+    },
+    "count.26": {
+      "url": "/audio/de/elevenlabs/counts/26.wav",
+      "durationMs": 389,
+      "hash": "139f39e0c256577be76b2533810a1450c6b749dff76b846d8b6ee71e99b3dd18",
+      "bytes": 17206
+    },
+    "count.27": {
+      "url": "/audio/de/elevenlabs/counts/27.wav",
+      "durationMs": 404,
+      "hash": "3f20cfd871e0bbd69a6cab233aacb8a3876bd3d5afeb2b044d15594fef45decf",
+      "bytes": 17840
+    },
+    "count.28": {
+      "url": "/audio/de/elevenlabs/counts/28.wav",
+      "durationMs": 399,
+      "hash": "8e8c784672baeeee05b569fae3e7cf3dbe65a5e9619be69ebfb1842bcfdad2ee",
+      "bytes": 17646
+    },
+    "count.29": {
+      "url": "/audio/de/elevenlabs/counts/29.wav",
+      "durationMs": 403,
+      "hash": "1e500608398a57663f1ea36ed2d8383d79e3576751779129b9e3a8f8c07b20a8",
+      "bytes": 17836
+    },
+    "count.30": {
+      "url": "/audio/de/elevenlabs/counts/30.wav",
+      "durationMs": 409,
+      "hash": "0c94a8d3e9f3a2f145659fc1912691335a570f02c3d438def720f95a532e9ed2",
+      "bytes": 18088
+    },
+    "prompt.startIntro": {
+      "url": "/audio/de/elevenlabs/prompts/start-intro.wav",
+      "durationMs": 2449,
+      "hash": "dc9a34e450ecd2dd6d6cd8c8fa6573d7b575fbc5a8fb5d3ae0e95fdccc6a90ed",
+      "bytes": 108066
+    },
+    "prompt.countdown.3": {
+      "url": "/audio/de/elevenlabs/prompts/countdown-3.wav",
+      "durationMs": 287,
+      "hash": "f5e5e4af42040f6e788bc7c69b5312a22505e0b67271c84f597d123177d74d73",
+      "bytes": 12690
+    },
+    "prompt.countdown.2": {
+      "url": "/audio/de/elevenlabs/prompts/countdown-2.wav",
+      "durationMs": 352,
+      "hash": "32cbd1579af4658657db5214c1f9d2a15ce5e3549a767b9fa28bd393c25a8a92",
+      "bytes": 15550
+    },
+    "prompt.countdown.1": {
+      "url": "/audio/de/elevenlabs/prompts/countdown-1.wav",
+      "durationMs": 349,
+      "hash": "668fa8320974d1938afbb6426a23b846cf2d1da9f238210c5740a107a8efce4f",
+      "bytes": 15446
+    },
+    "prompt.vent.1": {
+      "url": "/audio/de/elevenlabs/prompts/vent-1.wav",
+      "durationMs": 878,
+      "hash": "ce2b996306fed4ec8bd7262b488b8e305d17aaa68edfc062d92828543d38d59b",
+      "bytes": 38766
+    },
+    "prompt.vent.2": {
+      "url": "/audio/de/elevenlabs/prompts/vent-2.wav",
+      "durationMs": 893,
+      "hash": "cd1a62e75578127ae7a25c7200ac36f65fa68472739b0fb0be4d35e2598dd47b",
+      "bytes": 39426
+    },
+    "prompt.restart": {
+      "url": "/audio/de/elevenlabs/prompts/restart.wav",
+      "durationMs": 1701,
+      "hash": "987721daa83302a36b89dcd7bfc1caa39a8bdf725d636d330b4298f156baccff",
+      "bytes": 75066
+    },
+    "prompt.speakerTest": {
+      "url": "/audio/de/elevenlabs/prompts/speaker-test.wav",
+      "durationMs": 1407,
+      "hash": "70f35041539a37078ea0664ff17e17162788519aea29480f3ac94b929ef72e95",
+      "bytes": 62086
+    },
+    "prompt.cycle.2": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-2.wav",
+      "durationMs": 1437,
+      "hash": "2d78ee320ea3467c757893305b19f566180ef66210d92ecd555eb769abf2fa87",
+      "bytes": 63406
+    },
+    "prompt.cycle.3": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-3.wav",
+      "durationMs": 1472,
+      "hash": "9517050e1024304784192e41ad25d3df7c3b82a06bd4477d19b22b6d74654a03",
+      "bytes": 64946
+    },
+    "prompt.cycle.4": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-4.wav",
+      "durationMs": 1507,
+      "hash": "609b19c30b1166d833df6ce2fb459c5eb3404db0609151dc1695c079d4d1fd44",
+      "bytes": 66486
+    },
+    "prompt.cycle.5": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-5.wav",
+      "durationMs": 1601,
+      "hash": "08b9683ba4ba174e850f50678686a07bd670b3d9606028f9691c0cbeca5036cb",
+      "bytes": 70666
+    },
+    "prompt.cycle.6": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-6.wav",
+      "durationMs": 1487,
+      "hash": "1b0bf6f5bc676fa2a6f0b5a29a828dd3544b9a25546b16f09bdd9dcc7b43f9c6",
+      "bytes": 65606
+    },
+    "prompt.cycle.7": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-7.wav",
+      "durationMs": 1477,
+      "hash": "ad345e13e751b7421761fa19e326c00ef1d4dc652b53e779ed3d98393f114365",
+      "bytes": 65168
+    },
+    "prompt.cycle.8": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-8.wav",
+      "durationMs": 1532,
+      "hash": "84d633411a9e2eec729032f421886597e45c81e29e4502b8f402bcd5bac6ce58",
+      "bytes": 67586
+    },
+    "prompt.cycle.9": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-9.wav",
+      "durationMs": 1477,
+      "hash": "b749ea6a8239f6d98fc4a16dd8d7aa0d658f61f845a4c707c06293d4cd2b0cfe",
+      "bytes": 65166
+    },
+    "prompt.cycle.10": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-10.wav",
+      "durationMs": 1482,
+      "hash": "fc59cc4883f65a9312fa91f8879925e3a19b3c89383b56dec91e17061ccb69b9",
+      "bytes": 65386
+    },
+    "prompt.cycle.next": {
+      "url": "/audio/de/elevenlabs/prompts/cycle-next.wav",
+      "durationMs": 1477,
+      "hash": "78c58e556b5c8a8140659fd76680d1ac924abb3679b0a46b4f7cf742f2f9f2b4",
+      "bytes": 65166
+    }
+  }
+}
